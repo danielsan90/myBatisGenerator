@@ -1,0 +1,31 @@
+
+`	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ
+Z	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+`	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ
+[	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(Áš¹
+[	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉe
+o
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³Ù
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ü–
+k
+java:S1192a"PDefine a constant instead of duplicating this literal " cannot be null" 4 times.(õÜ—ºşÿÿÿÿ
+c
+java:S1192Ú"MDefine a constant instead of duplicating this literal "dataNascita" 10 times.(ô²–F
+e
+java:S1192”"IDefine a constant instead of duplicating this literal "cognome" 12 times.(Á‚Åôüÿÿÿÿ
+b
+java:S1192–"KDefine a constant instead of duplicating this literal "idSquadra" 10 times.(÷ò»­
+S
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(Á½¼s
+Y
+java:S1155M">Use isEmpty() to check whether the collection is empty or not.(í´Õûüÿÿÿÿ
+T
+java:S1155u">Use isEmpty() to check whether the collection is empty or not.(ÍÃ‘Æ
+v
+java:S1488:"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(¶Õ¯ì
